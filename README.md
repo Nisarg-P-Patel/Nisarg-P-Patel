@@ -52,7 +52,9 @@ I'm **[Nisarg Patel](https://github.com/Nisarg-P-Patel)**, your friendly neighbo
 - 💡 Innovator in Deep Learning, Federated Learning, and Privacy-Preserving AI: I’m the guy who makes sure your AI doesn’t spill secrets.
 - 🤖 Building intelligent systems for the future, one model at a time: Because creating sentient AI to conquer mundane tasks.
 - 🌐 Open to collaborations on AI-driven solutions and research opportunities: Let’s build something that’ll make even the robots say, "Wow, didn’t see that coming."
-- 📫 How to reach me: &nbsp; [<img align = "center" alt="Nisarg Patel | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>](https://www.linkedin.com/in/nisarg-p-patel/) &nbsp; &nbsp; [<img align = "center" alt="Nisarg Patel | Mail" height="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>](mailto:nppatel7@asu.com)
+- 📫 How to reach me: &nbsp; [<img align = "center" alt="Nisarg Patel | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>](https://www.linkedin.com/in/nisarg-p-patel/) &nbsp; &nbsp; [<img align = "center" alt="Nisarg Patel | Mail" height="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>](mailto:nppatel7@asu.com) &nbsp;
+ 
+<p> <img src="https://komarev.com/ghpvc/?username=nisarg-p-patel&label=Profile%20views&color=0e75b6&style=flat" alt="Nisarg Patel" /></p>
 
 </br>
 <div align="center">
