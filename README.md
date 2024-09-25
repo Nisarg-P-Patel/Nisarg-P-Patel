@@ -56,19 +56,15 @@ I'm **[Nisarg Patel](https://github.com/Nisarg-P-Patel)**, your friendly neighbo
  
 <p> <img src="https://komarev.com/ghpvc/?username=nisarg-p-patel&label=Profile%20views&color=0e75b6&style=flat" alt="Nisarg Patel" /></p>
 
-</br>
+
 <div align="center">
+  <h4> 
+    👉 Happy Learning 👈 
+  </h4>
 </div>
 <p align="center">
-   <a href="https://github.com/Nisarg-P-Patel">
-    <img height="350em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Nisarg-P-Patel&show_icons=true&theme=radical&rank_icon=github"/>
-  </a>
-</p>
-</br>
-<div align="center">
-</div>
-<p align="center">
-   <a href="https://github.com/Nisarg-P-Patel">
-    <img height="250em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg-P-Patel&theme=radical&hide_border=true&langs_count=10&layout=compact&card_width=250&border_radius=12&custom_title=Top%20Languages"/>
+  <a href="https://github.com/Nisarg-P-Patel">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Nisarg-P-Patel&show_icons=true&theme=radical&rank_icon=github"/><br>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg-P-Patel&theme=radical&hide_border=true&langs_count=10&layout=compact&card_width=250&border_radius=12&custom_title=Top%20Languages"/>
   </a>
 </p>
