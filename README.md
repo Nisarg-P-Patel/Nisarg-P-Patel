@@ -2,7 +2,7 @@
 
 <img align="right" alt="ML GIF" height=250 width=400 src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/></img>
 ### 😀 &nbsp;About Me
-I'm **[Nisarg Patel](https://github.com/Nisarg-P-Patel)**, your friendly neighborhood **AI/NLP enthusiast** and **CS grad** with a penchant for solving complex puzzles and teaching machines a thing or two. I specialize in **logical reasoning**, **LLM evaluations**, and **NLP magic**, all while dabbling in **applied AI**, and making tech not just smarter but also way cooler. Currently diving into personalization, preference-based learning, and LLMs—because why settle for generic when you can have AI with a personality? Also, I’m into **computer vision**, **NLP**, and pretty much anything that involves making algorithms work (or at least pretend to).
+I'm **[Nisarg Patel](https://github.com/Nisarg-P-Patel)**, your friendly neighborhood **AI/NLP enthusiast** and **CS grad** with a penchant for solving complex puzzles and teaching machines a thing or two. I specialize in **logical reasoning**, **LLM evaluations**, and **NLP magic**, all while dabbling in **applied AI**, and making tech not just smarter but also way cooler. Currently diving into personalization, preference-based learning, and LLMs - because why settle for generic when you can have AI with a personality? Also, I’m into **computer vision**, **NLP**, and pretty much anything that involves making algorithms work (or at least pretend to).
 
 ### Tech Stack that I am familiar with
 [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/) 
