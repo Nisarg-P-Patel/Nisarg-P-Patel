@@ -48,7 +48,7 @@ I'm **[Nisarg Patel](https://github.com/Nisarg-P-Patel)**, your friendly neighbo
 - 🚀 Passionate AI/NLP Researcher | Data Scientist | Aspiring LLM Scientist
 - 📚 Master's in Computer Science @ Arizona State University | GPA 4.0: Nerd alert? Perhaps. 
 - 🧠 NLP Enthusiast | Specializing in Logical Reasoning, LLM Evaluation, and LLM Improvment.
-- 📈 Published in ACL, EMNLP, IEEE | 250+ Citations: You could say I’m pretty popular… among researchers for citations, atleast.
+- 📈 Published in ACL, EMNLP, IEEE | 470+ Citations: You could say I’m pretty popular… among researchers for citations, atleast.
 - 💡 Innovator in Deep Learning, Federated Learning, and Privacy-Preserving AI: I’m the guy who makes sure your AI doesn’t spill secrets.
 - 🤖 Building intelligent systems for the future, one model at a time: Because creating sentient AI to conquer mundane tasks.
 - 🌐 Open to collaborations on AI-driven solutions and research opportunities: Let’s build something that’ll make even the robots say, "Wow, didn’t see that coming."
